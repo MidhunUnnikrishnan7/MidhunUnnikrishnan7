@@ -1,22 +1,10 @@
+<!-- Level 1: Simple bio and stats -->
+
+
 ### 👋 Hi, I’m Midhun!
 
-• 🏫 A student of Monash University, Australia
-• 👀 I’m interested in all the thing I haven't learnt.
-• 🌱 I’m currently learning R and SQL
-• 📬 Reach me via [Discord](https://discord.com/users/727456826542522679)
+🏫 A student of Monash University, Australia<br/>
+👀 I’m interested in all the thing I haven't learnt.<br/>
+🌱 I’m currently learning R and SQL<br/>
+📬 Reach me via [Discord](https://discord.com/users/727456826542522679)<br/>
 
-
-<!--
-**MidhunUnnikrishnan7/MidhunUnnikrishnan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
