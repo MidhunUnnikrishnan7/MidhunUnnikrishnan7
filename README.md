@@ -1,4 +1,10 @@
-## Hi there 👋
+### 👋 Hi, I’m Midhun!
+
+🏫 A student of Monash University, Australia
+👀 I’m interested in all the thing I haven't learnt.
+🌱 I’m currently learning R and SQL
+📬 Reach me via [Discord](https://discord.com/users/727456826542522679)
+
 
 <!--
 **MidhunUnnikrishnan7/MidhunUnnikrishnan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
