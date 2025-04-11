@@ -8,3 +8,4 @@
 🌱 I’m currently learning R and SQL<br/>
 📬 Reach me: [Discord](https://discord.com/users/727456826542522679)<br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MidhunUnnikrishnan7)](https://github.com/MidhunUnnikrishnan7/github-readme-stats)
