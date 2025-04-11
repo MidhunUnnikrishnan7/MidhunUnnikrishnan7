@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m Midhun!
 
-🏫 A student of Monash University, Australia
-👀 I’m interested in all the thing I haven't learnt.
-🌱 I’m currently learning R and SQL
-📬 Reach me via [Discord](https://discord.com/users/727456826542522679)
+• 🏫 A student of Monash University, Australia
+• 👀 I’m interested in all the thing I haven't learnt.
+• 🌱 I’m currently learning R and SQL
+• 📬 Reach me via [Discord](https://discord.com/users/727456826542522679)
 
 
 <!--
